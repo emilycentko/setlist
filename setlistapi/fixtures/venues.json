@@ -1,0 +1,65 @@
+[
+    {
+        "model": "setlistapi.venue",
+        "pk": 1,
+        "fields": {
+            "name": "Ryman Auditorium"
+        }
+    },
+    {
+        "model": "setlistapi.venue",
+        "pk": 2,
+        "fields": {
+            "name": "Red Rocks Ampitheater"
+        }
+    },
+    {
+        "model": "setlistapi.venue",
+        "pk": 3,
+        "fields": {
+            "name": "Municipal Auditorium"
+        }
+    },
+    {
+        "model": "setlistapi.venue",
+        "pk": 4,
+        "fields": {
+            "name": "Minglewood Hall"
+        }
+    },
+    {
+        "model": "setlistapi.venue",
+        "pk": 5,
+        "fields": {
+            "name": "Ascend Ampitheater"
+        }
+    },
+    {
+        "model": "setlistapi.venue",
+        "pk": 6,
+        "fields": {
+            "name": "The High Watt"
+        }
+    },
+    {
+        "model": "setlistapi.venue",
+        "pk": 7,
+        "fields": {
+            "name": "Mercy Lounge"
+        }
+    },
+    {
+        "model": "setlistapi.venue",
+        "pk": 8,
+        "fields": {
+            "name": "Ogden Theatre"
+        }
+    },
+    {
+        "model": "setlistapi.venue",
+        "pk": 9,
+        "fields": {
+            "name": "Third Man Records Blue Room"
+        }
+    }
+]

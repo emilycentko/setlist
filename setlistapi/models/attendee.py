@@ -8,3 +8,4 @@ class Attendee(models.Model):
     bio = models.CharField(max_length=50)
     city = models.CharField(max_length=50)
     state = models.CharField(max_length=50)
+    image = models.ImageField(null=True)

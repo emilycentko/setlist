@@ -1,0 +1,86 @@
+[
+    {
+        "model": "setlistapi.event",
+        "pk": 1,
+        "fields": {
+            "headliner": 1,
+            "opener": 12,
+            "city": 1,
+            "state": 1,
+            "date": "2017-10-21",
+            "venue": 3
+        }
+    },
+    {
+        "model": "setlistapi.event",
+        "pk": 2,
+        "fields": {
+            "headliner": 2,
+            "opener": 13,
+            "city": 5,
+            "state": 1,
+            "date": "2015-10-09",
+            "venue": 4
+        }
+    },
+    {
+        "model": "setlistapi.event",
+        "pk": 3,
+        "fields": {
+            "headliner": 3,
+            "opener": 14,
+            "city": 1,
+            "state": 1,
+            "date": "2019-03-31",
+            "venue": 1
+        }
+    },
+    {
+        "model": "setlistapi.event",
+        "pk": 4,
+        "fields": {
+            "headliner": 4,
+            "opener": 15,
+            "city": 1,
+            "state": 1,
+            "date": "2019-05-04",
+            "venue": 6
+        }
+    },
+    {
+        "model": "setlistapi.event",
+        "pk": 5,
+        "fields": {
+            "headliner": 5,
+            "opener": 16,
+            "city": 1,
+            "state": 1,
+            "date": "2019-10-24",
+            "venue": 7
+        }
+    },
+    {
+        "model": "setlistapi.event",
+        "pk": 6,
+        "fields": {
+            "headliner": 6,
+            "opener": 7,
+            "city": 4,
+            "state": 4,
+            "date": "2010-10-24",
+            "venue": 8
+        }
+    },
+    {
+        "model": "setlistapi.event",
+        "pk": 7,
+        "fields": {
+            "headliner": 8,
+            "opener": 9,
+            "city": 4,
+            "state": 4, 
+            "date": "2010-09-03",
+            "venue": 2
+        }
+    }
+]

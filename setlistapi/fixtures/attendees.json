@@ -1,0 +1,24 @@
+[
+    {
+        "model": "setlistapi.attendee",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "Love rock, psych, & chillwave",
+            "city": "Memphis",
+            "state": "Tennessee",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.attendee",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "bio": "Will travel for music",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "image": null
+        }
+    }
+]
