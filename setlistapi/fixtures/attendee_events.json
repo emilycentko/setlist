@@ -1,0 +1,90 @@
+[
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 1,
+        "fields": {
+            "attendee": 1,
+            "event": 1
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 2,
+        "fields": {
+            "attendee": 2,
+            "event": 1
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 3,
+        "fields": {
+            "attendee": 1,
+            "event": 2
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 4,
+        "fields": {
+            "attendee": 2,
+            "event": 2
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 5,
+        "fields": {
+            "attendee": 1,
+            "event": 3
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 6,
+        "fields": {
+            "attendee": 2,
+            "event": 3
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 7,
+        "fields": {
+            "attendee": 2,
+            "event": 4
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 8,
+        "fields": {
+            "attendee": 1,
+            "event": 5
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 9,
+        "fields": {
+            "attendee": 2,
+            "event": 5
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 10,
+        "fields": {
+            "attendee": 1,
+            "event": 6
+        }
+    },
+    {
+        "model": "setlistapi.attendeeevent",
+        "pk": 11,
+        "fields": {
+            "attendee": 1,
+            "event": 7
+        }
+    }
+]

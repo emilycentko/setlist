@@ -1,0 +1,30 @@
+[
+    {
+        "model": "setlistapi.state",
+        "pk": 1,
+        "fields": {
+            "state": "Tennessee"
+        }
+    },
+    {
+        "model": "setlistapi.state",
+        "pk": 2,
+        "fields": {
+            "state": "Georgia"
+        }
+    },
+    {
+        "model": "setlistapi.state",
+        "pk": 3,
+        "fields": {
+            "state": "New York"
+        }
+    },
+    {
+        "model": "setlistapi.state",
+        "pk": 4,
+        "fields": {
+            "state": "Colorado"
+        }
+    }
+]

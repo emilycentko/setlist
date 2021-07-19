@@ -1,0 +1,146 @@
+[
+    {
+        "model": "setlistapi.artist",
+        "pk": 1,
+        "fields": {
+            "name": "LCD Soundsystem",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 2,
+        "fields": {
+            "name": "Father John Misty",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 3,
+        "fields": {
+            "name": "Jenny Lewis",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 4,
+        "fields": {
+            "name": "Orville Peck",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 5,
+        "fields": {
+            "name": "Thee Oh Sees",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 6,
+        "fields": {
+            "name": "Of Montreal",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 7,
+        "fields": {
+            "name": "Janelle Monae",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 8,
+        "fields": {
+            "name": "Vampire Weekend",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 9,
+        "fields": {
+            "name": "Beach House",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 10,
+        "fields": {
+            "name": "Dirty Projectors",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 11,
+        "fields": {
+            "name": "Weyes Blood",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 12,
+        "fields": {
+            "name": "Big Freedia",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 13,
+        "fields": {
+            "name": "Tess & Dave",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 14,
+        "fields": {
+            "name": "The Cactus Blossoms",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 15,
+        "fields": {
+            "name": "Teddy and the Rough Riders",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 16,
+        "fields": {
+            "name": "Prettiest Eyes",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 17,
+        "fields": {
+            "name": "The Hives",
+            "image": null
+        }
+    },
+    {
+        "model": "setlistapi.artist",
+        "pk": 18,
+        "fields": {
+            "name": "Olivia Jean",
+            "image": null
+        }
+    }
+]
